@@ -53,7 +53,7 @@ detector.indices
 
 ## Installation
 
-    pip install git+https://github.com/dan-global/anomaly.git
+    pip install git+https://github.com/adammarples/anomaly.git
 
 ## Methodology
 
